@@ -1,4 +1,5 @@
 # PredictiveMaintenanceForEquipment
+Presentation link-https://www.canva.com/design/DAFuyIpgTbs/AgXImQfj6qnE7AmDRgugrw/edit?utm_content=DAFuyIpgTbs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 This Notebook serves as the final project for the Algorithms and Applications for Data Science course 
 at the University of Naples Federico II during the academic year 2021-2022.
 
@@ -17,4 +18,4 @@ The project encompasses two core objectives:
 Identifying whether a machine is on the verge of failure.
 Determining the nature of the impending fault.
 Lastly, we provide an extensive comparison of the results obtained from our predictive models.
- We assess their performance using pertinent metrics and evaluate their interpretability.
+ We assess their performance using pertinent metrics and evaluate their interpretability.  
