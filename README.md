@@ -19,3 +19,9 @@ Identifying whether a machine is on the verge of failure.
 Determining the nature of the impending fault.
 Lastly, we provide an extensive comparison of the results obtained from our predictive models.
  We assess their performance using pertinent metrics and evaluate their interpretability.  
+## Features
+Historical disease data:https://raw.githubusercontent.com/Rapo-zevs/eda/main/predictive_maintenance.csv'
+Machine learning model:KNN, SVC, RFC
+
+## Prerequisites
+matplotlib==3.7.0 pandas==1.5.3 scikit-learn==1.2.1 numpy=1.23.5 seaborn==0.12.2 Python==3.10.9
